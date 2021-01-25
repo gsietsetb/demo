@@ -1,25 +1,32 @@
 {"deliveries": [
   {
     "id": 1234,
-    "address": "Some address",
-    "latitude": 2.334455,
-    "longitude": 4.323423,
+    "address": "Rue de la Miserie, 24, Laussane",
+    "latitude":  46.519962,
+    "longitude":  6.633597,
     "customer_name": "Juan Pérez"
   },
   {
     "id": 4567,
-    "address": "Some other address",
-    "latitude": 2.3432167,
-    "longitude": 4.676453,
+    "address": "Portal del Angel, 2",
+    "latitude": 41.3851,
+    "longitude": 2.1734,
     "customer_name": "María Castro"
+  },
+  {
+    "id": 7458,
+    "address": "Puerta Amancio, 2",
+    "latitude": 35.292522,
+    "longitude": -1.936471,
+    "customer_name": "Fernandez Diaz"
   }
 ],
   "delivery": [
   {
     "id": 1234,
-    "address": "Some address",
-    "latitude": 2.334455,
-    "longitude": 4.323423,
+    "address": "Rue de la Miserie, 24, Laussane",
+    "latitude":  46.519962,
+    "longitude":  6.633597,
     "customer_name": "Juan Pérez",
     "requires_signature": false,
     "special_instructions": "blue door, besides the car shop. Deliver to the car shop if necessary"
