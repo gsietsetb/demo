@@ -24,5 +24,8 @@
     "requires_signature": false,
     "special_instructions": "blue door, besides the car shop. Deliver to the car shop if necessary"
   }
-]
+],
+  "tracking": {
+    "status": "OK"
+  }
 }
