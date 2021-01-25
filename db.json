@@ -34,5 +34,8 @@
 ],
   "tracking": {
     "status": "OK"
+  },
+  "active": {
+    "status": "OK"
   }
 }
